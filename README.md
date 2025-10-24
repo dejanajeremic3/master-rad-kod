@@ -1,5 +1,7 @@
 # Kod za master rad: Interpretacija nelinearnih statističkih modela sa primenom u osiguranju
 
+!Repo je premešten na [dejanajeremic3/master-rad-clean](https://github.com/dejanajeremic3/master-rad-clean)
+
 Autor: **Dejana Jeremić**
 
 ### Opis
